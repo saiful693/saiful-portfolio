@@ -18,7 +18,7 @@ const Banner = () => {
   };
 
   return (
-    <div className="border-2 border-white hero bg-[#252734] min-h-screen flex items-center justify-center overflow-hidden relative">
+    <div className=" hero bg-[#252734] min-h-screen flex items-center justify-center overflow-hidden relative">
       <div className="flex gap-4 justify-between items-center  w-full max-w-6xl">
         <div className="flex-1 w-2/5 text-center lg:text-left lg:pl-8">
           <h1 className="text-5xl font-bold text-white">
