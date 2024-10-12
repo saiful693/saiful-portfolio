@@ -1,7 +1,11 @@
+import Banner from "../Banner/Banner";
+import Service from "../Service/Service";
+
 const Home = () => {
   return (
-    <div>
-      <h2 className="text-3xl font-bold bg-red-500">This is Home</h2>
+    <div className="z-20 max-w-screen-xl mx-auto text-white">
+      <Banner></Banner>
+      <Service></Service>
     </div>
   );
 };
