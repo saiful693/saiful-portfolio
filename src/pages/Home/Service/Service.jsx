@@ -118,7 +118,7 @@ const Service = () => {
                       <img src={img3} />
                     </div>
                   </div>
-                  <h1 className="text-2xl font-bold">ackend Development</h1>
+                  <h1 className="text-2xl font-bold">Backend Development</h1>
 
                   <ul className="list-disc pl-5">
                     <li className="flex items-center gap-2 py-2">
